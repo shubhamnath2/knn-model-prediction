@@ -8,6 +8,10 @@ This model first trained using KNN to classify the class and tested for accuracy
 
 Give user input like [45,99,19] results B. Here 1 digit results A and 2 digit results B. The above example is for understanding the classification process in general. KNN uses euclieden distance to determine the class.
 
+2 type of data is taken i.e. Iris classification and Student Passing classification.
+Student classification data has only name and score and the result is made in the python dataframe.
+Random state is taken in student data for achieving maximum classification accuracy.
+
 Warning: The data used here is 100% accurate so it will predict class perfectly, which is almost impossible in real life data.
 
 Configuration: You need virtualenv, PyCharm or any other Python GUI to run this model, as this model requires virtualenv to use. PyCharm is prefered with Python3.6 with all the required modules/libraries in venv folder.
