@@ -1,0 +1,5 @@
+The objective of implementing this project model is to understand the implementation of Machine Learning Model in real life, what good parameters needs to apply for achieving maximum accuracy, analyzing the output and finding the insights. Here Supervised Machine Learning Model with K Nearest Neighbor classifier is used.
+
+The model takes the iris flower's dimensions having it's respective classes. This model later takes sample set for training and testing, and the accuracy score is generated. The better the accuracy, the more fit model is. User input is implemented after training and testing, where a user puts the input parameters, and the user gets the class of respective input parameters. 
+
+This implementation can help in predicting the class of new parameters without much computation, and might also brings out the new insights, information and classes for future applications.
